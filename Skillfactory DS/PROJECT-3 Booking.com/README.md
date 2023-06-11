@@ -2,10 +2,10 @@
 
 ## Оглавление
 * [1. Описание проекта](https://github.com/kos-kazakov/sf_data_science_NEW/tree/main/Skillfactory%20DS/PROJECT-3%20Booking.com/README.md#Описание-проекта)
-* [2. Какой кейс решаем?](https://github.com/kos-kazakov/sf_data_science_NEW/tree/main/Skillfactory%20DS/PROJECT-3%20Booking.com/README.md#Исходные-данные)
+* [2. Какой кейс решаем?](https://github.com/kos-kazakov/sf_data_science_NEW/tree/main/Skillfactory%20DS/PROJECT-3%20Booking.com/README.md#Какой-кейс-решаем?)
 * [3. Этапы проекта](https://github.com/kos-kazakov/sf_data_science_NEW/tree/main/Skillfactory%20DS/PROJECT-3%20Booking.com/README.md#Этапы-проекта)
-* [4. Краткая информация о данных](https://github.com/kos-kazakov/sf_data_science_NEW/tree/main/Skillfactory%20DS/PROJECT-3%20Booking.com/README.md#Требования-к-оформлению-решения)
-* [4. Результаты](https://github.com/kos-kazakov/sf_data_science_NEW/tree/main/Skillfactory%20DS/PROJECT-3%20Booking.com/README.md#Результаты)
+* [4. Краткая информация о данных](https://github.com/kos-kazakov/sf_data_science_NEW/tree/main/Skillfactory%20DS/PROJECT-3%20Booking.com/README.md#Краткая-информация-о-данных)
+* [5. Результаты](https://github.com/kos-kazakov/sf_data_science_NEW/tree/main/Skillfactory%20DS/PROJECT-3%20Booking.com/README.md#Результаты)
 
 ## Описание проекта
  Предсказание оценки отеля клиентом на основе полученного отзыва, данных об отеле и клиенте.
