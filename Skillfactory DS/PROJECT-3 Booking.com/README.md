@@ -1,11 +1,11 @@
 # [PROJECT-1. Анализ резюме из HeadHunter](https://github.com/kos-kazakov/sf_data_science/tree/main/Skillfactory%20DS/PROJECT-1)
 
 ## Оглавление
-* [1. Описание проекта](https://github.com/kos-kazakov/sf_data_science/blob/main/Skillfactory%20DS/PROJECT-1/README.md#Описание-проекта)
-* [2. Какой кейс решаем?](https://github.com/kos-kazakov/sf_data_science/blob/main/Skillfactory%20DS/PROJECT-1/README.md#Исходные-данные)
-* [3. Этапы проекта](https://github.com/kos-kazakov/sf_data_science/blob/main/Skillfactory%20DS/PROJECT-1/README.md#Этапы-проекта)
-* [4. Краткая информация о данных](https://github.com/kos-kazakov/sf_data_science/blob/main/Skillfactory%20DS/PROJECT-1/README.md#Требования-к-оформлению-решения)
-* [4. Результаты](https://github.com/kos-kazakov/sf_data_science/blob/main/Skillfactory%20DS/PROJECT-1/README.md#Результаты)
+* [1. Описание проекта](https://github.com/kos-kazakov/sf_data_science_NEW/tree/main/Skillfactory%20DS/PROJECT-3%20Booking.com/README.md#Описание-проекта)
+* [2. Какой кейс решаем?](https://github.com/kos-kazakov/sf_data_science_NEW/tree/main/Skillfactory%20DS/PROJECT-3%20Booking.com/README.md#Исходные-данные)
+* [3. Этапы проекта](https://github.com/kos-kazakov/sf_data_science_NEW/tree/main/Skillfactory%20DS/PROJECT-3%20Booking.com/README.md#Этапы-проекта)
+* [4. Краткая информация о данных](https://github.com/kos-kazakov/sf_data_science_NEW/tree/main/Skillfactory%20DS/PROJECT-3%20Booking.com/README.md#Требования-к-оформлению-решения)
+* [4. Результаты](https://github.com/kos-kazakov/sf_data_science_NEW/tree/main/Skillfactory%20DS/PROJECT-3%20Booking.com/README.md#Результаты)
 
 ## Описание проекта
  Предсказание оценки отеля клиентом на основе полученного отзыва, данных об отеле и клиенте.
@@ -50,10 +50,10 @@
 ## Результаты
 Получены предсказания рейтинга для тестового датасета, оформлен submission в соревнование на Kaggle, достигнута метрика качества MAPE=12.96
 
-[Ноутбук с решением](https://github.com/kos-kazakov/sf_data_science/blob/main/Skillfactory%20DS/PROJECT-1/Project-1.%20HeadHunter%20resume%20analysis.ipynb)
+[Ноутбук с решением](https://github.com/kos-kazakov/sf_data_science_NEW/blob/main/Skillfactory%20DS/PROJECT-3%20Booking.com/project-3-eda-kos-k.ipynb)
 
 
 __________________________
 
-##  [К оглавлению](https://github.com/kos-kazakov/sf_data_science/blob/main/Skillfactory%20DS/PROJECT-1/README.md#Оглавление)
+##  [К оглавлению](https://github.com/kos-kazakov/sf_data_science_NEW/tree/main/Skillfactory%20DS/PROJECT-3%20Booking.com/README.md#Оглавление)
 
