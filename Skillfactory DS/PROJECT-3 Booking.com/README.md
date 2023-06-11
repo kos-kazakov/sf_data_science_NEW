@@ -1,4 +1,4 @@
-# [PROJECT-1. Анализ резюме из HeadHunter](https://github.com/kos-kazakov/sf_data_science/tree/main/Skillfactory%20DS/PROJECT-1)
+# [PROJECT-3. Прогнозирование рейтинга отеля на Booking.com](https://github.com/kos-kazakov/sf_data_science_NEW/tree/main/Skillfactory%20DS/PROJECT-3%20Booking.com)
 
 ## Оглавление
 * [1. Описание проекта](https://github.com/kos-kazakov/sf_data_science_NEW/tree/main/Skillfactory%20DS/PROJECT-3%20Booking.com/README.md#Описание-проекта)
